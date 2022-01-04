@@ -1,3 +1,3 @@
-# CPP_Problems
+# CP_Problems
 
 Contains the solutions to all the competitive programming questions that i have completed so far...
